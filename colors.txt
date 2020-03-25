@@ -2,3 +2,4 @@ black
 red
 white
 blue
+orange
