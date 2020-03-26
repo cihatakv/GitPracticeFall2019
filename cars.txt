@@ -6,4 +6,5 @@ BMW X6
 Mercedes
 Kia Optima
 Lexus Gx740
-Mazda 3
+Kia Optima
+Honda Civic
