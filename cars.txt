@@ -5,3 +5,4 @@ BMW 3
 BMW X6
 Mercedes
 Kia Optima
+Lexus Gx740
